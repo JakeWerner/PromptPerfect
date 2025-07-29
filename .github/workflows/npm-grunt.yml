@@ -26,6 +26,7 @@ jobs:
       run: |
         npm install
         npm cache verify
+        npm install grunt --save-dev
         npm install -g grunt-cli
         
     - name: Build
