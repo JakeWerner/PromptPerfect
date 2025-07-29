@@ -26,6 +26,7 @@ jobs:
       run: |
         npm install
         npm cache verify
+        npm config set fund=false 
         npm install grunt --save-dev
         npm install -g grunt-cli
         
