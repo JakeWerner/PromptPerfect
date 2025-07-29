@@ -1,0 +1,6 @@
+{
+  "name": "Prompt Perfect",
+  "description": "An AI-powered application to help users construct, refine, and optimize prompts for Large Language Models. It breaks down prompt creation into key components and uses AI to suggest improvements for better clarity, specificity, and structure.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
