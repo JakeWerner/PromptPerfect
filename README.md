@@ -2,8 +2,6 @@
 
 **Prompt Perfect** is a modern, AI-powered web application designed to help users construct, refine, and optimize prompts for Large Language Models (LLMs). It provides a structured interface and leverages the Google Gemini API to transform basic ideas into highly effective, detailed prompts.
 
-![App Screenshot](https://storage.googleapis.com/project-avocado-dev-images/prompt-perfect.png)
-
 ## Overview
 
 Crafting the perfect prompt is an art. This application turns it into a science. By breaking down prompt creation into its core components—Persona, Task, Context, Format, and Constraints—it guides users toward clarity and specificity. The app then uses an AI to analyze the user's input and generate an optimized prompt, complete with an explanation of the changes made. For users who want to iterate further, a refinement feature allows them to provide feedback for continuous improvement.
